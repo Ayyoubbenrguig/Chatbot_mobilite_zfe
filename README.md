@@ -26,7 +26,7 @@ A conversational AI chatbot built with Streamlit and Google Cloud (BigQuery + Ve
 
 ### 1. Indexing & Retrieval
 
-![Index & Retrieval](./docs/architecture_indexing.png)
+
 
 1. Describe tables in BigQuery  
 2. Embed metadata with Vertex AI  
@@ -36,7 +36,7 @@ A conversational AI chatbot built with Streamlit and Google Cloud (BigQuery + Ve
 
 ### 2. Query Generation & Answering
 
-![Query & Answer Flow](./docs/architecture_query_flow.png)
+
 
 1. Chat history + current query → reformulation LLM  
 2. Embed reformulated question → retrieve context  
@@ -48,7 +48,7 @@ A conversational AI chatbot built with Streamlit and Google Cloud (BigQuery + Ve
 
 ## 🎥 Demo
 
-[![Watch the demo video](./docs/demo_thumbnail.png)](https://youtu.be/your-demo-video-id)  
+[![Watch the demo video](./video.mp4)](https://github.com/Ayyoubbenrguig/Chatbot_mobilite_zfe/blob/main/video.mp4)  
 *Click to watch a short walkthrough of the chatbot in action.*
 
 ---
