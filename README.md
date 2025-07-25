@@ -48,7 +48,7 @@ A conversational AI chatbot built with Streamlit and Google Cloud (BigQuery + Ve
 
 ## 🎥 Demo
 
-[![Watch the demo video]](https://github.com/Ayyoubbenrguig/Chatbot_mobilite_zfe/blob/main/video.mp4)  
+[![Watch the demo video]](https://youtu.be/KhjDEM5O5rI)  
 *Click to watch a short walkthrough of the chatbot in action.*
 
 ---
