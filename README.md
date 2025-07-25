@@ -2,6 +2,8 @@
 
 A conversational AI chatbot built with Streamlit and Google Cloud (BigQuery + Vertex AI) that answers questions on French geographic data (communes, départements, régions, ZFE zones, fusions/scissions, etc.) and vehicle fleet composition (passenger & light-utility vehicles from 2011 to 2022).
 
+![Interface user](interface user.jpg)
+
 ---
 
 ## 🎯 Project Overview
