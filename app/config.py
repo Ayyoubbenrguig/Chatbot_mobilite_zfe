@@ -5,10 +5,10 @@ from pandas.api.types import is_numeric_dtype
 import faiss 
 
 # GCP & BigQuery
-PROJECT_ID = "irn-74856-zlb-lab-c5"
-DATASET_ID = "Data_mobilite"
+PROJECT_ID = "#############################"
+DATASET_ID = "########################"
 LOCATION = "europe-west1"
-TABLE_PREFIX_FILTER = "France_Table"
+TABLE_PREFIX_FILTER = "######################"
 
 # Vertex AI
 EMBEDDING_MODEL_NAME = "text-multilingual-embedding-002"
