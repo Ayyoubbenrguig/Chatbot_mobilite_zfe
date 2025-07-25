@@ -1,0 +1,12 @@
+streamlit
+
+google-cloud-aiplatform
+google-cloud-bigquery
+google-auth
+
+vertexai
+
+pandas
+numpy
+
+faiss-cpu
