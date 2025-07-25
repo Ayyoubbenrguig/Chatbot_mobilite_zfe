@@ -48,7 +48,7 @@ A conversational AI chatbot built with Streamlit and Google Cloud (BigQuery + Ve
 
 ## 🎥 Demo
 
-[![Watch the demo video](./video.mp4)](https://github.com/Ayyoubbenrguig/Chatbot_mobilite_zfe/blob/main/video.mp4)  
+[![Watch the demo video]](https://github.com/Ayyoubbenrguig/Chatbot_mobilite_zfe/blob/main/video.mp4)  
 *Click to watch a short walkthrough of the chatbot in action.*
 
 ---
@@ -57,5 +57,5 @@ A conversational AI chatbot built with Streamlit and Google Cloud (BigQuery + Ve
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-org/renault-geo-mobility-explorer.git
-   cd renault-geo-mobility-explorer
+   git clone git@github.com:Ayyoubbenrguig/Chatbot_mobilite_zfe.git
+  
