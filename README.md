@@ -22,6 +22,8 @@ A conversational AI chatbot built with Streamlit and Google Cloud (BigQuery + Ve
 
 ## 🏗️ System Architecture
 
+![Chatbot architecture](./architecture_RAG.jpg)
+
 ### 1. Indexing & Retrieval
 
 ![Index & Retrieval](./docs/architecture_indexing.png)
